@@ -3,9 +3,9 @@
   "description": "Simple enterprise node app server.",
   "version": "1.0.0",
   "main": "index.js",
-  "engines": {
-    "node": "^6.x"
-  },
+ "engines": {
+    "node": "^18.x"
+},
   "author": "DigiFi",
   "private": true,
   "license": "UNLICENSED",
